@@ -1,12 +1,12 @@
 Arthur
 =====
 
-.. _installation:
+.. _instalando:
 
-Installation
+Instalando
 ------------
 
-To use Lumache, first install it using pip:
+Para Usar o Lumache, Use o Pip:
 
 .. code-block:: console
 
