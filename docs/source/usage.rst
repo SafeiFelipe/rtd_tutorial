@@ -1,7 +1,7 @@
 Arthur
 =====
 
-.. _instalando:
+.. _installation:
 
 Instalando
 ------------
