@@ -1,4 +1,4 @@
-Usage
+Arthur
 =====
 
 .. _installation:
