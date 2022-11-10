@@ -9,7 +9,9 @@ Primeiro, para identificarmos o destino no CFOP, devemos ter atenção ao seu 1�
 
 Por Exemplo
 
-.. autosummary::
-   :toctree: generated
+.. code-block:: console
 
-   lumache
+Iniciados Com 1 e 5 - Operações Dentro da Estado
+Iniciados Com 2 e 6 - Operações interestaduais
+Iniciados Com 3 e 7 - Operações Internacionais
+
