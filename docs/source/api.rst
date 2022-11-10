@@ -13,4 +13,5 @@ Por Exemplo
 Iniciados Com 1 e 5 - Operações Dentro da Estado
 Iniciados Com 2 e 6 - Operações interestaduais
 Iniciados Com 3 e 7 - Operações Internacionais
+----------------
 
