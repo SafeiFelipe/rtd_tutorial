@@ -1,7 +1,7 @@
 CFOP's Por API!
 ===================================
 
-(https://focusnfe.com.br/wp-content/uploads/2017/05/POST-BLOG_1200-x-627-8.png)
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 .. note::
 
