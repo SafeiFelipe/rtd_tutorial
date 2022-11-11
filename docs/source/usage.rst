@@ -1,4 +1,4 @@
-Arthur
+Lumache
 =====
 
 .. _installation:
@@ -12,21 +12,21 @@ Para Usar o Lumache, Use o Pip:
 
    (.venv) $ pip install lumache
 
-Creating recipes
+Criando Receitas
 ----------------
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
+Para Retornar Ingredientes Aleatórios,
+Você Pode Utilizar ``lumache.get_random_ingredients()`` function:
 
 .. autofunction:: lumache.get_random_ingredients
 
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
+Esse ``Tipo`` De Parâmetro pode ser também: ``"Carne"``, ``"Peixe"``,
+ou ``"vegetais"``. Todavia, :py:func:`lumache.get_random_ingredients`
+Irá aumentar uma exception
 
 .. autoexception:: lumache.InvalidKindError
 
-For example:
+Por Exemplo:
 
 >>> import lumache
 >>> lumache.get_random_ingredients()
